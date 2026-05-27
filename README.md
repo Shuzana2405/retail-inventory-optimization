@@ -39,4 +39,4 @@ During exploratory data analysis of a retail dataset containing over 73,000 rows
 
 ### Historical Deficit Visualization
 Below is a 30-day simulation tracking historical stock profiles against the engineered safety threshold:
-![Inventory Deficit Analysis Plot](Inventory_deficiency_chart.png)
+<img src="https://raw.githubusercontent.com/Shuzana2405/retail-inventory-optimization/main/Inventory_deficiency_chart.png" width="800" alt="Inventory Deficit Analysis Plot">
